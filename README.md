@@ -77,7 +77,7 @@ npm install
 
 
 # 1. Clone the repository
-git clone <https://github.com/Pratikshaprabhakarbande/blockchain-testing-devops-integration.git>
+git clone https://github.com/Pratikshaprabhakarbande/blockchain-testing-devops-integration.git
 
 # 2. Enter the project
 cd blockchain-testing-devops-integration
